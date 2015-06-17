@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient android:startColor="@color/finGradiente"
+        android:endColor="@color/c4"
+        android:type="linear"
+        android:angle="45"
+        />
+    <size android:height="@dimen/radioColor" android:width="@dimen/radioColor"/>
+</shape><!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/drawable/color4.xml -->

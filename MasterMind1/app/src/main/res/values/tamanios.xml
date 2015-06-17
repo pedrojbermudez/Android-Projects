@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radioColor">30dp</dimen>
+    <dimen name="radioPequenio">15dp</dimen>
+    <dimen name="grosorLinea">2dp</dimen>
+</resources>

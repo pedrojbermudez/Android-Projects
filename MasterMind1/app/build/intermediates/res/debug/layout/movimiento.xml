@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/est1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/colocada" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/est2"
+        android:src="@drawable/colocada"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/est1"
+        android:layout_toEndOf="@+id/est1" />
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:id="@+id/est3"
+        android:src="@drawable/descolocada"
+        android:layout_below="@+id/est1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:id="@+id/est4"
+        android:src="@drawable/descolocada"
+        android:layout_alignTop="@+id/est3"
+        android:layout_toRightOf="@+id/est3"
+        android:layout_toEndOf="@+id/est3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:id="@+id/color1"
+        android:layout_toRightOf="@+id/est2"
+        android:layout_toEndOf="@+id/est2"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp"
+        android:src="@drawable/color0"
+        android:layout_alignBottom="@+id/color2"
+        android:layout_marginRight="15dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/color2"
+        android:src="@drawable/color0"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/color1"
+        android:layout_toEndOf="@+id/color1"
+        android:layout_marginRight="15dp" />
+
+    ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:id="@+id/color3"
+        android:src="@drawable/color0"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/color2"
+        android:layout_toEndOf="@+id/color2" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/color3"
+        android:src="@drawable/color0"
+        android:layout_toRightOf="@+id/color2"
+        android:layout_marginRight="15dp" />
+
+    ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:id="@+id/color4"
+        android:src="@drawable/color0"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/color3"
+        android:layout_toEndOf="@+id/color3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/color4"
+        android:src="@drawable/color0"
+        android:layout_below="@+id/color4"
+        android:layout_toRightOf="@+id/color3" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/layout/movimiento.xml -->

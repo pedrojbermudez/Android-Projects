@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@color/colocadas"/>
+    <size android:height="@dimen/radioPequenio" android:width="@dimen/radioPequenio"/>
+</shape><!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/drawable/colocada.xml -->

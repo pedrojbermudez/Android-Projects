@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/values/colores.xml -->
+    <eat-comment/>
+    <color name="c0">#ff0000</color>
+    <color name="c1">#00ff00</color>
+    <color name="c2">#0000ff</color>
+    <color name="c3">#ffff00</color>
+    <color name="c4">#ff00ff</color>
+    <color name="c5">#00ffff</color>
+    <color name="c6">#ff6527a8</color>
+    <color name="c7">#ff79ae08</color>
+    <color name="c8">#ff69411b</color>
+    <color name="c9">#ffe8ad34</color>
+    <color name="colocadas">#000000</color>
+    <color name="finGradiente">#000000</color>
+    <!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/values/tamanios.xml -->
+    <eat-comment/>
+    <dimen name="grosorLinea">2dp</dimen>
+    <dimen name="radioColor">30dp</dimen>
+    <dimen name="radioPequenio">15dp</dimen>
+    <!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Setting</string>
+    <string name="app_name">MasterMind</string>
+    <string name="button_try">Intentar</string>
+    <!-- From: file:/C:/Users/PedroJavier/AndroidStudioProjects/MasterMind1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
